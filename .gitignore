@@ -1,0 +1,8 @@
+# ignora as pastas Python
+/__pycache__
+/mepa/__pycache__
+
+# ignora as saídas do parser e outros
+*.out
+parsetab.py
+*.mep
