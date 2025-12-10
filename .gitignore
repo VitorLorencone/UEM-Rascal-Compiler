@@ -5,4 +5,3 @@
 # ignora as saídas do parser e outros
 *.out
 parsetab.py
-*.mep
