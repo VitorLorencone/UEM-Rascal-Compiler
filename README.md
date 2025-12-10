@@ -38,3 +38,9 @@ python rascal.py -o program.ras output
 # Gerar código MEPA pt2
 python rascal.py -op program.ras output
 ```
+
+Por fim, executa-seo o arquivo `output.mep` gerado com a implementação da máquina MEPA
+
+```bash
+python ./mepa/mepa_pt.py --progfile output.mep
+```
